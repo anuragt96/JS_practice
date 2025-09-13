@@ -10,7 +10,7 @@
 7. Write a program in JavaScript to check the data type of a variable.
 8. Write a program in JavaScript to negate a boolean value.
 9. Write a program in JavaScript to find square and cube of a number.
-10.Write a program in JavaScript to check if a number is even or odd.
+10. Write a program in JavaScript to check if a number is even or odd.
 
 ## 📌 Conditions (If/Else, Switch)
 
@@ -23,7 +23,7 @@
 7. Write a program in JavaScript to check grade calculator.
 8. Write a program in JavaScript to display day of the week using switch case.
 9. Write a program in JavaScript to check if a number is divisible by 5 and 11.
-10.Write a program in JavaScript to check if a character is a vowel or consonant.
+10. Write a program in JavaScript to check if a character is a vowel or consonant.
 
 ## 📌 Loops (for, while, do-while)
 
@@ -36,7 +36,7 @@
 7. Write a program in JavaScript to find sum of odd numbers between 1 and 100.
 8. Write a program in JavaScript to print multiplication table from 1 to 5.
 9. Write a program in JavaScript to calculate the power of a number.
-10.Write a program in JavaScript to count digits of a number.
+10. Write a program in JavaScript to count digits of a number.
 
 ## 📌 Arrays
 
@@ -49,7 +49,7 @@
 7. Write a program in JavaScript to count even and odd numbers in an array.
 8. Write a program in JavaScript to sort an array in ascending order.
 9. Write a program in JavaScript to merge two arrays.
-10.Write a program in JavaScript to remove duplicates from an array.
+10. Write a program in JavaScript to remove duplicates from an array.
 
 ## 📌 Strings
 
@@ -62,4 +62,4 @@
 7. Write a program in JavaScript to check if a string starts and ends with a specific character.
 8. Write a program in JavaScript to split a string into words.
 9. Write a program in JavaScript to join array elements into a single string.
-    Write a program in JavaScript to compare two strings.
+10. Write a program in JavaScript to compare two strings.
